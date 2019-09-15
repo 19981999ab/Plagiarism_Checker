@@ -1,5 +1,6 @@
 # Plagiarism_Checker
 **A plagiarism based ranker for different documents**
+
 This is mainly designed to go through all the files in the corpus present and check the similarity of the input document based on the documents present in the corpus. Firstly vector space model is used but then Fingerprint Analysis is also made into it.
 
 ## Getting Started
